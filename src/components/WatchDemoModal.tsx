@@ -18,15 +18,15 @@ interface Video {
 const demoVideos: Video[] = [
   {
     id: '1',
-    title: 'How To Make A FILMMAKING PORTFOLIO If You\'re Just Starting',
-    youtubeId: 'dQw4w9WgXcQ', // Replace with actual video ID
-    description: 'Learn how to create your filmmaking portfolio from scratch',
+    title: 'What is a Gaffer in Film?',
+    youtubeId: 'h-93j2aY8pA',
+    description: 'Role of the Gaffer & Chief Lighting Technician Explained',
   },
   {
     id: '2',
-    title: 'How to Make a Short Film',
-    youtubeId: 'dQw4w9WgXcQ', // Replace with actual video ID
-    description: 'A practical walkthrough of the short film creation process',
+    title: 'What is a Key Grip in Film?',
+    youtubeId: 'Y-hXf2w3A8I',
+    description: 'Role of the Key Grip Explained',
   },
 ];
 
@@ -101,7 +101,7 @@ const WatchDemoModal = ({ open, onOpenChange }: WatchDemoModalProps) => {
             <Button
               variant="outline"
               className="flex-1"
-              onClick={() => window.open('https://www.studiobinder.com/blog/filmmaking-youtube-channels/', '_blank')}
+              onClick={() => window.open('https://www.youtube.com/@StudioBinder', '_blank')}
             >
               More Learning Resources
             </Button>

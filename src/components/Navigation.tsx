@@ -32,7 +32,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center gap-2">
             <Film className="h-8 w-8 text-primary" />
-            <span className="text-2xl font-bold bg-gradient-gold bg-clip-text text-transparent">Filmmaker's Collective</span>
+            <span className="text-2xl font-bold bg-gradient-gold bg-clip-text text-transparent">yet untitled</span>
           </Link>
           
           <div className="hidden md:flex items-center gap-8">

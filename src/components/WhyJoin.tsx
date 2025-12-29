@@ -36,7 +36,7 @@ const WhyJoin = () => {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            Why Join <span className="text-transparent bg-clip-text bg-gradient-gold">FrameConnect</span>?
+            Why Join <span className="text-transparent bg-clip-text bg-gradient-gold">yet untitled</span>?
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Everything you need to turn your creative vision into reality
